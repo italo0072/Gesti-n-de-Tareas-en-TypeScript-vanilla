@@ -45,7 +45,7 @@ Los datos se guardan en el navegador con la clave `margen.tareas.v1`. Al cerrar 
 
 ## Prueba rápida
 
-En  `evidencia de pruebas.pdf` se encuentran las pruebas de su funcionamiento completo 
+En  [evidencia_de_pruebas.pdf](evidencia_de_pruebas.pdf) se encuentran las pruebas de su funcionamiento completo 
 
 ## Compilación de producción
 
